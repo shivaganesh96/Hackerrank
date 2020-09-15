@@ -70,7 +70,6 @@ int main() {
 			sum3 = sum1;
 		}
 
-		// sum3 = max(sum1,sum2);
 		printf("%d %d\n", sum, sum3);
 
 
